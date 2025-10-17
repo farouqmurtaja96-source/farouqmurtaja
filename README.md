@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello, I'm Farouq 👨‍💻" width="60%"/>  
+<img src="https://github.com/farouqmurtaja96-source/farouqmurtaja/blob/main/hellocoders_rounded_farouq.gif" alt="Hello, I'm Farouq 👨‍💻" width="60%"/>  
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Farouq Murtaja Workspace" width="40%"/>  
 
 </div>
